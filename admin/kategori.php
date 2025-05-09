@@ -48,7 +48,7 @@ include "koneksi.php";
   <header id="header" class="header fixed-top d-flex align-items-center">
 
     <div class="d-flex align-items-center justify-content-between">
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="index.php" class="logo d-flex align-items-center">
         <img src="assets/img/logo.png" alt="">
         <span class="d-none d-lg-block">sclothes</span>
       </a>
@@ -82,7 +82,7 @@ include "koneksi.php";
           <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
             <li class="dropdown-header">
               <h6>Danta Ferdinan </h6>
-              <span>Web Designer</span>
+              <span>admin</span>
             </li>
             <li>
               <hr class="dropdown-divider">

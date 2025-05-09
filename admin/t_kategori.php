@@ -68,7 +68,7 @@ if (isset($_POST['simpan'])) {
   <header id="header" class="header fixed-top d-flex align-items-center">
 
     <div class="d-flex align-items-center justify-content-between">
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="index.php" class="logo d-flex align-items-center">
         <img src="assets/img/logo.png" alt="">
         <span class="d-none d-lg-block">Sclothes</span>
       </a>
@@ -88,7 +88,7 @@ if (isset($_POST['simpan'])) {
           <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
             <li class="dropdown-header">
               <h6>Danta Ferdinan</h6>
-              <span>Web Designer</span>
+              <span>admin</span>
             </li>
             <li>
               <hr class="dropdown-divider">
@@ -215,7 +215,7 @@ if (isset($_POST['simpan'])) {
       <!-- You can delete the links only if you purchased the pro version. -->
       <!-- Licensing information: https://bootstrapmade.com/license/ -->
       <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/ -->
-      Designed by <a href="https://www.instagram.com/ferdinan_vix/">Danta Ferdinan</a>
+      Designed by <a href="https://www.instagram.com/ferdinan_vix/ target=_blank">Danta Ferdinan</a>="_blank"
     </div>
   </footer><!-- End Footer -->
 
